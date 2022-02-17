@@ -1,0 +1,4 @@
+@import '../assets/SCSS/abstract/mixins';
+p{
+    @include colorblue;
+}
